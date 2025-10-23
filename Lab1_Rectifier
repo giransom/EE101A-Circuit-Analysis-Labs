@@ -1,1 +1,11 @@
+The lab was divided into two main parts:
+
+1. Characterizing the tranformer
+  - after soldering the connetor piece, the transformer output was analyzed for different voltages including:
+    - DC voltage
+    - AC square waves
+    - AC sinusodial waves
+
+2. Recitifier
+  -after building a full wave rectifier we utilized oscilloscope to analyze the output
 
