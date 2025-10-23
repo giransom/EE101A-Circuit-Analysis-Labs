@@ -1,4 +1,8 @@
-# AC-to-DC-converter
+Author: Giselle Ransom
+Institution: Stanford University
+Course: EE101A – Circuits 1
+Semester: Fall 2025
+
 Over the course of a quarter EE 101A has two main lab builds including:
 1. AC-DC conveter (5 weeks)
 2. Switch Voltage Regulator (1 week)
