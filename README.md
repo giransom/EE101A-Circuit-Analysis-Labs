@@ -24,8 +24,4 @@ Tools:
 - Oscilloscope
 - Soldering Iron
   
-EE107-Circuit-Analysis-Labs/
-│
-├── Lab1_Rectifier/
-│   ├── Full_Wave_Rectifier.pdf
-│   └── README.md
+![Circuit Diagram](EE101A_110.png)
