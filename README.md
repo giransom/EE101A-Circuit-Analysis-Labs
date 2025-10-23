@@ -24,4 +24,4 @@ Tools:
 - Oscilloscope
 - Soldering Iron
   
-![Circuit Diagram](EE101A_110.png)
+![Circuit Diagram](EE 101A-110.jpg)
