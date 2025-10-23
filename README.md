@@ -24,4 +24,4 @@ Tools:
 - Oscilloscope
 - Soldering Iron
   
-![Circuit Diagram](full_wave_rectifier.png)
+
