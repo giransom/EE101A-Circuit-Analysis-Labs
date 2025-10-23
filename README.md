@@ -24,4 +24,4 @@ Tools:
 - Oscilloscope
 - Soldering Iron
   
-![Circuit Diagram](EE 101A-110.jpg)
+![Circuit Diagram](full_wave_rectifier.png)
